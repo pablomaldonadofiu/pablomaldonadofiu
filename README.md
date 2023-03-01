@@ -11,6 +11,7 @@
   - [Configuring Active Directory within Azure VMs](https://github.com/pablomaldonadofiu/config-ad)
 - <b>DNS and bla</b>
   - [DNS Basics](https://github.com/pablomaldonadofiu/dns-basic)
+  - [Network Security Groups & Inspecting Traffic](https://github.com/pablomaldonadofiu/nsg-traffic)
 
 
 <h2>🤳Connect with me:</h2>
