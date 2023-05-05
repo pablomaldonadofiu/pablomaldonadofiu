@@ -1,4 +1,4 @@
-<h2>👨‍💻 Information Technology Projects:</h2>
+<h2>👨‍💻 Information Technology Projects by Pablo Maldonado:</h2>
 
 - <b>osTicket (Help Desk Ticketing System) Tutorial</b>
   - [osTicket: Prerequisites and Installation](https://github.com/pablomaldonadofiu/osticket-prereqs)
